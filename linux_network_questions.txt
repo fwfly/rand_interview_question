@@ -1,0 +1,51 @@
+When you type www.amazon.com in your web browser, what happens?
+What are different types of DNS queries? -> iterative, recursive and reversive query. Also explain them
+When a name resolution request is sent, how the dns resolution process happens? Also assume that your dns servers   don't have any forwarders defined.
+What are the difference between TCP and UDP?
+How TCP connection establishment happens?
+What is windowing in TCP?
+What is filesystem journalling?
+What is the difference between Switch and Routers?
+What is the use of cookies?
+I need to subnet a class C network to 2 equal subnets? what is the subnet mask to be used for that? - Subnet mask to be used is /25 (255.255.255.128)
+How router works?
+Where do we use UDP? -> Live video streaming, VOIP calls etc
+How load balancing through DNS happens?
+What are the resource record types available in DNS?
+What is a socket? what are the socket states? how will you see the socket status in Linux?
+What is a zombie process? How can we kill a zombie process?
+Assume that your customer has got a webserver and the end users are complaining that the server performance is very low, what all are the things you will check?
+Explain about 3 tier web application
+Difference between  UDP & TCP
+What all network analysis tools you have worked on?
+How does trace route work?
+Does trace route use UDP/TCP?
+For subnet mask 255.255.255.240, how many usable IP addresses you have?
+Have you ever used Amazon Cloud Solutions?
+How do you list all the running processes in Linux? ps -ef , any other command to list process ?
+Linux boot process Summary ?
+What is the main role of initial ram disk (INITRD) during boot process?
+What is the difference between Soft link and Hardlink ?
+Can you explain Kill command ? -->
+Can you explain about Process SIGNALS ? -->
+Linux server how to add new user ?
+Manually how to create an user ?
+What is SE Linux -->
+How does SE Linux works ?
+Do you know anything about file context and label ?
+How to set the priority of Linux process ?
+Not able to start httpd service , it got failed without any error , how to troubleshoot?
+Can you explain Linux Hardening process ? How do you harden Linux ? -->
+What is LVM ---> Explaing about LVM and FS Extension
+What is LVM Metadata —>
+What is Sticky bit --> https://www.thegeekdiary.com/what-is-suid-sgid-and-sticky-bit/
+How to set sticky bit -->
+Do you write any scripting ?
+Explain about Shell scripting return codes ?
+How do you define functions in Shell Scripting ?
+Any shell script wrote for Production environment ?
+Not able to ssh to their server from corporate network ? How do you troubleshoot ?
+Customer reported that their Website is SLOW ? how do you troubleshoot?
+What are the difference between TCP and UDP -->
+Can you explain TCP Handshake ?
+Which DB technologies are you familiar with ?
